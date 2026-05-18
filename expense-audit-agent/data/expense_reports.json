@@ -367,7 +367,7 @@
     "report_id": "ER-2024-0220",
     "employee": "Patricia Gomez",
     "department": "Sales",
-    "submitted": "2025-01-15",
+    "submitted": "2025-02-10",
     "purpose": "Client meetings in Dallas, Nov 4-6",
     "items": [
       {"date": "2024-11-04", "category": "Travel", "description": "Flight SFO-DFW round trip (economy)", "amount": 356.00, "receipt": true},
