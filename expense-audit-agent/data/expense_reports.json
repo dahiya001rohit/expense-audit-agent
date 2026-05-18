@@ -1,0 +1,400 @@
+[
+  {
+    "report_id": "ER-2024-0147",
+    "employee": "Sarah Chen",
+    "department": "Sales",
+    "submitted": "2024-11-25",
+    "purpose": "Client meetings in Chicago, Nov 18-20",
+    "items": [
+      {"date": "2024-11-17", "category": "Travel", "description": "Flight SFO-ORD round trip (economy)", "amount": 487.30, "receipt": true},
+      {"date": "2024-11-18", "category": "Lodging", "description": "Marriott Downtown Chicago - 2 nights", "amount": 412.00, "receipt": true},
+      {"date": "2024-11-18", "category": "Meals", "description": "Dinner with client (Ravi Patel, Apex Industries)", "amount": 68.50, "receipt": true},
+      {"date": "2024-11-19", "category": "Meals", "description": "Working lunch with internal team (3 people)", "amount": 42.80, "receipt": true},
+      {"date": "2024-11-20", "category": "Meals", "description": "Breakfast before flight", "amount": 18.20, "receipt": true},
+      {"date": "2024-11-18", "category": "Transport", "description": "Uber airport to hotel", "amount": 38.00, "receipt": true},
+      {"date": "2024-11-20", "category": "Transport", "description": "Uber hotel to airport", "amount": 41.50, "receipt": true},
+      {"date": "2024-11-17", "category": "Transport", "description": "Airport parking (3 days)", "amount": 54.00, "receipt": true}
+    ],
+    "total": 1162.30
+  },
+  {
+    "report_id": "ER-2024-0153",
+    "employee": "Marcus Williams",
+    "department": "Engineering",
+    "submitted": "2024-11-28",
+    "purpose": "DevCon SF conference, Nov 21-23",
+    "items": [
+      {"date": "2024-11-20", "category": "Travel", "description": "Flight LAX-SFO round trip (first class)", "amount": 1240.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Lodging", "description": "W Hotel SF - 3 nights", "amount": 891.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Meals", "description": "Dinner at Nopa", "amount": 156.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Meals", "description": "Conference lunch (provided by organizer)", "amount": 0.00, "receipt": false},
+      {"date": "2024-11-22", "category": "Meals", "description": "Dinner with college friend", "amount": 94.00, "receipt": true},
+      {"date": "2024-11-23", "category": "Supplies", "description": "Laptop sleeve (personal)", "amount": 89.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Transport", "description": "Uber rides (3 trips)", "amount": 67.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Entertainment", "description": "Conference after-party drinks", "amount": 48.00, "receipt": true}
+    ],
+    "total": 2585.00
+  },
+  {
+    "report_id": "ER-2024-0158",
+    "employee": "Priya Patel",
+    "department": "Business Development",
+    "submitted": "2024-12-01",
+    "purpose": "Client relationship building - Bay Area, Nov 25-26",
+    "items": [
+      {"date": "2024-11-25", "category": "Meals", "description": "Client dinner (6 people from Zenith Corp)", "amount": 420.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Entertainment", "description": "Gift basket for Zenith Corp team", "amount": 175.00, "receipt": true},
+      {"date": "2024-11-26", "category": "Supplies", "description": "Day pass at WeWork for meeting space", "amount": 45.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Transport", "description": "Uber Black to client dinner", "amount": 82.00, "receipt": true},
+      {"date": "2024-11-26", "category": "Transport", "description": "Uber to WeWork and back", "amount": 36.00, "receipt": true},
+      {"date": "2024-11-26", "category": "Meals", "description": "Coffee meeting with potential partner", "amount": 12.50, "receipt": false}
+    ],
+    "total": 770.50
+  },
+  {
+    "report_id": "ER-2024-0162",
+    "employee": "James Rodriguez",
+    "department": "Marketing",
+    "submitted": "2024-12-03",
+    "purpose": "General office and work expenses, November",
+    "items": [
+      {"date": "2024-11-05", "category": "Supplies", "description": "Business supplies", "amount": 234.00, "receipt": false},
+      {"date": "2024-11-12", "category": "Meals", "description": "Team lunch", "amount": 312.00, "receipt": true},
+      {"date": "2024-11-15", "category": "Supplies", "description": "Software subscription (Figma)", "amount": 49.00, "receipt": false},
+      {"date": "2024-11-20", "category": "Transport", "description": "Parking", "amount": 28.00, "receipt": false},
+      {"date": "2024-11-01", "category": "Supplies", "description": "Printer ink", "amount": 62.00, "receipt": true}
+    ],
+    "total": 685.00
+  },
+  {
+    "report_id": "ER-2024-0170",
+    "employee": "Emma Thompson",
+    "department": "Product",
+    "submitted": "2024-12-05",
+    "purpose": "Product partnership meetings in London, Nov 27 - Dec 1",
+    "items": [
+      {"date": "2024-11-26", "category": "Travel", "description": "Flight SFO-LHR round trip (business class, 10hr flight)", "amount": 2340.00, "receipt": true},
+      {"date": "2024-11-27", "category": "Lodging", "description": "Premier Inn London City - 4 nights", "amount": 1420.00, "receipt": true, "note": "GBP 285/night converted at 1.245"},
+      {"date": "2024-11-27", "category": "Meals", "description": "Dinner with Archway team (4 people)", "amount": 186.75, "receipt": true, "note": "GBP 150 converted"},
+      {"date": "2024-11-28", "category": "Meals", "description": "Working lunch", "amount": 31.13, "receipt": true, "note": "GBP 25 converted"},
+      {"date": "2024-11-29", "category": "Meals", "description": "Client dinner with CEO and CTO (3 people)", "amount": 298.80, "receipt": true, "note": "GBP 240 converted"},
+      {"date": "2024-11-30", "category": "Meals", "description": "Solo dinner", "amount": 56.16, "receipt": true, "note": "GBP 45.11 converted"},
+      {"date": "2024-11-26", "category": "Travel", "description": "Visa processing fee", "amount": 160.00, "receipt": true},
+      {"date": "2024-11-26", "category": "Travel", "description": "Travel insurance (trip duration)", "amount": 89.00, "receipt": true},
+      {"date": "2024-11-27", "category": "Transport", "description": "Heathrow Express + Tube (4 days)", "amount": 124.50, "receipt": true, "note": "GBP 100 converted"},
+      {"date": "2024-12-01", "category": "Meals", "description": "Per diem balance (5 days x $100 international - actual meals claimed)", "amount": 0.00, "receipt": false, "note": "Claiming actual meals instead of per diem"}
+    ],
+    "total": 4706.34
+  },
+  {
+    "report_id": "ER-2024-0175",
+    "employee": "David Kim",
+    "department": "Sales",
+    "submitted": "2024-12-10",
+    "purpose": "Client visits in Denver, Sep 15-17",
+    "items": [
+      {"date": "2024-09-15", "category": "Travel", "description": "Flight SFO-DEN round trip (economy)", "amount": 342.00, "receipt": true},
+      {"date": "2024-09-15", "category": "Lodging", "description": "Hilton Garden Inn Denver - 2 nights", "amount": 478.00, "receipt": true},
+      {"date": "2024-09-15", "category": "Meals", "description": "Client dinner (Lisa Park, Orion Solutions)", "amount": 88.40, "receipt": false},
+      {"date": "2024-09-16", "category": "Meals", "description": "Lunch with prospect", "amount": 45.00, "receipt": true},
+      {"date": "2024-09-16", "category": "Meals", "description": "Dinner solo", "amount": 38.20, "receipt": true},
+      {"date": "2024-09-17", "category": "Transport", "description": "Uber to airport", "amount": 32.00, "receipt": true},
+      {"date": "2024-09-15", "category": "Transport", "description": "Uber airport to hotel", "amount": 29.50, "receipt": true}
+    ],
+    "total": 1053.10
+  },
+  {
+    "report_id": "ER-2024-0178",
+    "employee": "Anika Rao",
+    "department": "Product",
+    "submitted": "2024-12-02",
+    "purpose": "ProductCon NYC, Nov 11-13",
+    "items": [
+      {"date": "2024-11-10", "category": "Travel", "description": "Flight SFO-JFK round trip (economy)", "amount": 428.00, "receipt": true},
+      {"date": "2024-11-11", "category": "Lodging", "description": "Holiday Inn Midtown - 3 nights", "amount": 747.00, "receipt": true},
+      {"date": "2024-11-11", "category": "Meals", "description": "Per diem day 1", "amount": 75.00, "receipt": false},
+      {"date": "2024-11-12", "category": "Meals", "description": "Lunch at conference venue", "amount": 22.50, "receipt": true},
+      {"date": "2024-11-12", "category": "Meals", "description": "Per diem day 2", "amount": 75.00, "receipt": false},
+      {"date": "2024-11-13", "category": "Meals", "description": "Breakfast near hotel", "amount": 16.80, "receipt": true},
+      {"date": "2024-11-11", "category": "Transport", "description": "Taxi JFK to hotel", "amount": 68.00, "receipt": true},
+      {"date": "2024-11-13", "category": "Transport", "description": "Subway + Lyft to JFK", "amount": 41.50, "receipt": true}
+    ],
+    "total": 1473.80
+  },
+  {
+    "report_id": "ER-2024-0181",
+    "employee": "Tom Nakamura",
+    "department": "Engineering",
+    "submitted": "2024-12-05",
+    "purpose": "Team offsite and sprint retrospective, Nov 18-19",
+    "items": [
+      {"date": "2024-08-22", "category": "Supplies", "description": "USB-C hub for office", "amount": 67.00, "receipt": true},
+      {"date": "2024-11-18", "category": "Meals", "description": "Team dinner (6 engineers)", "amount": 386.00, "receipt": true},
+      {"date": "2024-11-18", "category": "Meals", "description": "Drinks after dinner (same group)", "amount": 124.00, "receipt": true},
+      {"date": "2024-11-19", "category": "Meals", "description": "Team lunch (6 engineers)", "amount": 178.00, "receipt": true},
+      {"date": "2024-11-19", "category": "Supplies", "description": "Whiteboard markers and sticky notes", "amount": 34.50, "receipt": true},
+      {"date": "2024-11-18", "category": "Transport", "description": "Uber to restaurant (group)", "amount": 28.00, "receipt": true}
+    ],
+    "total": 817.50
+  },
+  {
+    "report_id": "ER-2024-0184",
+    "employee": "Rachel Foster",
+    "department": "Business Development",
+    "submitted": "2024-12-08",
+    "purpose": "Government partnership exploration, Dec 2-3",
+    "items": [
+      {"date": "2024-12-02", "category": "Meals", "description": "Lunch with DOT procurement lead (Mark Evans)", "amount": 62.00, "receipt": true},
+      {"date": "2024-12-02", "category": "Meals", "description": "Coffee meeting with state auditor", "amount": 14.50, "receipt": true},
+      {"date": "2024-12-02", "category": "Entertainment", "description": "Thank-you gift for DOT team lead", "amount": 85.00, "receipt": true},
+      {"date": "2024-12-02", "category": "Meals", "description": "Dinner solo at hotel", "amount": 52.00, "receipt": true},
+      {"date": "2024-12-03", "category": "Meals", "description": "Client breakfast (3 people from state office)", "amount": 78.50, "receipt": true},
+      {"date": "2024-12-03", "category": "Transport", "description": "Uber Black to government building", "amount": 54.00, "receipt": true},
+      {"date": "2024-12-03", "category": "Transport", "description": "Uber back to hotel", "amount": 31.00, "receipt": true}
+    ],
+    "total": 377.00
+  },
+  {
+    "report_id": "ER-2024-0187",
+    "employee": "Chris Okafor",
+    "department": "Design",
+    "submitted": "2024-12-04",
+    "purpose": "Various work expenses, November",
+    "items": [
+      {"date": "2024-11-04", "category": "Supplies", "description": "Pens and notebooks", "amount": 18.50, "receipt": false},
+      {"date": "2024-11-06", "category": "Supplies", "description": "Sketch pads", "amount": 22.00, "receipt": false},
+      {"date": "2024-11-08", "category": "Supplies", "description": "Markers set", "amount": 16.75, "receipt": false},
+      {"date": "2024-11-11", "category": "Supplies", "description": "Printer paper", "amount": 24.00, "receipt": false},
+      {"date": "2024-11-13", "category": "Supplies", "description": "Binder clips and folders", "amount": 12.30, "receipt": false},
+      {"date": "2024-11-14", "category": "Supplies", "description": "Figma annual subscription", "amount": 144.00, "receipt": true},
+      {"date": "2024-11-18", "category": "Supplies", "description": "Standing desk mat", "amount": 89.00, "receipt": true},
+      {"date": "2024-11-19", "category": "Supplies", "description": "USB drawing tablet", "amount": 62.00, "receipt": true},
+      {"date": "2024-11-20", "category": "Supplies", "description": "Desk lamp", "amount": 24.50, "receipt": false},
+      {"date": "2024-11-22", "category": "Supplies", "description": "Cable organizer", "amount": 14.00, "receipt": false},
+      {"date": "2024-11-25", "category": "Supplies", "description": "Post-it flags", "amount": 8.50, "receipt": false},
+      {"date": "2024-11-26", "category": "Supplies", "description": "Webcam cover", "amount": 6.00, "receipt": false}
+    ],
+    "total": 441.55
+  },
+  {
+    "report_id": "ER-2024-0190",
+    "employee": "Kenji Watanabe",
+    "department": "Engineering",
+    "submitted": "2024-12-09",
+    "purpose": "Partner integration meetings in Tokyo, Nov 25-29",
+    "items": [
+      {"date": "2024-11-24", "category": "Travel", "description": "Flight SFO-NRT round trip (business class, 11hr flight)", "amount": 3180.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Lodging", "description": "Hotel Sunroute Ginza - 4 nights", "amount": 1120.00, "receipt": true, "note": "JPY 42,000/night converted at 0.00667"},
+      {"date": "2024-11-25", "category": "Meals", "description": "Dinner with Sakura Tech team (3 people)", "amount": 93.38, "receipt": true, "note": "JPY 14,000 converted"},
+      {"date": "2024-11-26", "category": "Meals", "description": "Working lunch at office", "amount": 20.01, "receipt": true, "note": "JPY 3,000 converted"},
+      {"date": "2024-11-26", "category": "Meals", "description": "Dinner solo", "amount": 40.02, "receipt": true, "note": "JPY 6,000 converted"},
+      {"date": "2024-11-27", "category": "Meals", "description": "Client lunch (2 people)", "amount": 66.70, "receipt": true, "note": "JPY 10,000 converted"},
+      {"date": "2024-11-27", "category": "Meals", "description": "Dinner solo", "amount": 33.35, "receipt": true, "note": "JPY 5,000 converted"},
+      {"date": "2024-11-28", "category": "Meals", "description": "Team dinner with Sakura engineers (5 people)", "amount": 133.40, "receipt": true, "note": "JPY 20,000 converted"},
+      {"date": "2024-11-25", "category": "Transport", "description": "Narita Express + metro (4 days)", "amount": 146.74, "receipt": true, "note": "JPY 22,000 converted"},
+      {"date": "2024-11-28", "category": "Entertainment", "description": "Gift for Sakura Tech CEO", "amount": 66.70, "receipt": true, "note": "JPY 10,000 converted"}
+    ],
+    "total": 4900.30
+  },
+  {
+    "report_id": "ER-2024-0193",
+    "employee": "Megan Torres",
+    "department": "Marketing",
+    "submitted": "2024-12-06",
+    "purpose": "Content shoots and vendor meetings, Nov 20-22",
+    "items": [
+      {"date": "2024-11-20", "category": "Meals", "description": "Breakfast at Blue Bottle Coffee", "amount": 18.50, "receipt": true},
+      {"date": "2024-11-20", "category": "Meals", "description": "Lunch with photographer at Flour + Water", "amount": 64.00, "receipt": true},
+      {"date": "2024-11-20", "category": "Meals", "description": "Dinner at Flour + Water (client dinner, Anna Reyes, Contour Media)", "amount": 142.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Transport", "description": "Uber Black to shoot location", "amount": 58.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Transport", "description": "Uber XL with equipment back", "amount": 44.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Supplies", "description": "Props for product shoot", "amount": 156.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Meals", "description": "Team lunch (4 people)", "amount": 92.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Supplies", "description": "Adobe Creative Cloud (monthly)", "amount": 59.99, "receipt": true}
+    ],
+    "total": 634.49
+  },
+  {
+    "report_id": "ER-2024-0196",
+    "employee": "Brian Walsh",
+    "department": "Sales",
+    "submitted": "2024-12-07",
+    "purpose": "Client trip to Austin, Nov 14-16",
+    "items": [
+      {"date": "2024-11-14", "category": "Travel", "description": "Flight SFO-AUS round trip (economy)", "amount": 378.00, "receipt": true},
+      {"date": "2024-11-14", "category": "Lodging", "description": "Courtyard by Marriott Austin - 2 nights", "amount": 398.00, "receipt": true},
+      {"date": "2024-11-14", "category": "Meals", "description": "Dinner with client (Jake Morris, Ridgeline Inc) and spouse", "amount": 186.00, "receipt": true},
+      {"date": "2024-11-15", "category": "Meals", "description": "Lunch with client team (2 people)", "amount": 58.00, "receipt": true},
+      {"date": "2024-11-15", "category": "Meals", "description": "Dinner solo", "amount": 42.00, "receipt": true},
+      {"date": "2024-11-15", "category": "Transport", "description": "Personal vehicle mileage (hotel to client office, 3 round trips)", "amount": 94.00, "receipt": false, "note": "Estimated 140 miles"},
+      {"date": "2024-11-14", "category": "Transport", "description": "Rental car (2 days)", "amount": 112.00, "receipt": true},
+      {"date": "2024-11-16", "category": "Supplies", "description": "Cash advance for incidentals", "amount": 200.00, "receipt": false}
+    ],
+    "total": 1468.00
+  },
+  {
+    "report_id": "ER-2024-0199",
+    "employee": "Nina Petrova",
+    "department": "Customer Success",
+    "submitted": "2024-11-30",
+    "purpose": "Client onboarding visit in Portland, Nov 21-22",
+    "items": [
+      {"date": "2024-11-21", "category": "Travel", "description": "Flight SFO-PDX round trip (economy)", "amount": 218.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Lodging", "description": "Hampton Inn Portland - 1 night", "amount": 179.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Meals", "description": "Dinner with client team (2 people from Cascade Analytics)", "amount": 72.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Meals", "description": "Breakfast at hotel", "amount": 14.50, "receipt": true},
+      {"date": "2024-11-21", "category": "Transport", "description": "Lyft airport to hotel", "amount": 28.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Transport", "description": "Lyft to client office + back to airport", "amount": 44.00, "receipt": true}
+    ],
+    "total": 555.50
+  },
+  {
+    "report_id": "ER-2024-0202",
+    "employee": "Sandra Liu",
+    "department": "Sales",
+    "submitted": "2024-12-09",
+    "purpose": "SaaStr Annual conference + personal days, Nov 18-24",
+    "items": [
+      {"date": "2024-11-17", "category": "Travel", "description": "Flight BOS-SFO round trip (economy)", "amount": 412.00, "receipt": true},
+      {"date": "2024-11-18", "category": "Lodging", "description": "Hotel Nikko SF - 6 nights", "amount": 1494.00, "receipt": true},
+      {"date": "2024-11-18", "category": "Meals", "description": "Conference networking dinner", "amount": 68.00, "receipt": true},
+      {"date": "2024-11-19", "category": "Meals", "description": "Client lunch (Mike Chen, Apex Digital)", "amount": 84.00, "receipt": true},
+      {"date": "2024-11-19", "category": "Meals", "description": "Dinner solo", "amount": 46.00, "receipt": true},
+      {"date": "2024-11-20", "category": "Meals", "description": "Conference lunch (provided)", "amount": 0.00, "receipt": false},
+      {"date": "2024-11-20", "category": "Meals", "description": "Dinner with college friends", "amount": 72.00, "receipt": true},
+      {"date": "2024-11-21", "category": "Meals", "description": "Brunch", "amount": 38.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Meals", "description": "Lunch exploring city", "amount": 32.00, "receipt": true},
+      {"date": "2024-11-23", "category": "Meals", "description": "Dinner at Napa winery", "amount": 125.00, "receipt": true},
+      {"date": "2024-11-24", "category": "Meals", "description": "Airport lunch", "amount": 19.00, "receipt": true},
+      {"date": "2024-11-18", "category": "Transport", "description": "Lyft airport to hotel", "amount": 52.00, "receipt": true},
+      {"date": "2024-11-23", "category": "Transport", "description": "Rental car (Napa day trip)", "amount": 89.00, "receipt": true}
+    ],
+    "total": 2531.00
+  },
+  {
+    "report_id": "ER-2024-0205",
+    "employee": "Derek Singh",
+    "department": "Engineering",
+    "submitted": "2024-12-03",
+    "purpose": "Home office setup and remote work expenses, November",
+    "items": [
+      {"date": "2024-11-01", "category": "Supplies", "description": "Mechanical keyboard", "amount": 145.00, "receipt": true},
+      {"date": "2024-11-01", "category": "Supplies", "description": "Ergonomic mouse", "amount": 79.00, "receipt": true},
+      {"date": "2024-11-05", "category": "Supplies", "description": "GitHub Copilot (annual)", "amount": 100.00, "receipt": true},
+      {"date": "2024-11-05", "category": "Supplies", "description": "Notion team plan (monthly)", "amount": 10.00, "receipt": true},
+      {"date": "2024-11-08", "category": "Supplies", "description": "Monitor stand", "amount": 42.00, "receipt": true},
+      {"date": "2024-11-12", "category": "Meals", "description": "Working lunch with contractor at WeWork", "amount": 34.00, "receipt": true},
+      {"date": "2024-11-15", "category": "Supplies", "description": "WeWork day pass", "amount": 45.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Supplies", "description": "WeWork day pass", "amount": 45.00, "receipt": true},
+      {"date": "2024-11-29", "category": "Supplies", "description": "HDMI cables (2-pack)", "amount": 18.00, "receipt": true}
+    ],
+    "total": 518.00
+  },
+  {
+    "report_id": "ER-2024-0208",
+    "employee": "Laura Martinez",
+    "department": "Sales",
+    "submitted": "2024-12-10",
+    "purpose": "Multi-city client tour, Nov 25 - Dec 1",
+    "items": [
+      {"date": "2024-11-25", "category": "Travel", "description": "Flight SFO-SEA (economy)", "amount": 189.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Lodging", "description": "Hyatt Regency Seattle - 2 nights", "amount": 518.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Meals", "description": "Client dinner (2 people, NovaTech)", "amount": 94.00, "receipt": true},
+      {"date": "2024-11-26", "category": "Meals", "description": "Lunch meeting", "amount": 38.00, "receipt": true},
+      {"date": "2024-11-26", "category": "Meals", "description": "Dinner solo", "amount": 55.00, "receipt": true},
+      {"date": "2024-11-27", "category": "Travel", "description": "Flight SEA-LAX (economy)", "amount": 162.00, "receipt": true},
+      {"date": "2024-11-27", "category": "Lodging", "description": "Westin Bonaventure LA - 2 nights", "amount": 534.00, "receipt": true},
+      {"date": "2024-11-27", "category": "Meals", "description": "Client dinner (4 people, Westfield Group)", "amount": 310.00, "receipt": true},
+      {"date": "2024-11-28", "category": "Meals", "description": "Working breakfast with LA team", "amount": 28.00, "receipt": true},
+      {"date": "2024-11-28", "category": "Meals", "description": "Client lunch (3 people)", "amount": 126.00, "receipt": true},
+      {"date": "2024-11-29", "category": "Travel", "description": "Flight LAX-SFO (economy)", "amount": 138.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Transport", "description": "Uber rides Seattle (3 trips)", "amount": 68.00, "receipt": true},
+      {"date": "2024-11-27", "category": "Transport", "description": "Uber rides LA (4 trips)", "amount": 112.00, "receipt": true}
+    ],
+    "total": 2372.00
+  },
+  {
+    "report_id": "ER-2024-0211",
+    "employee": "Victor Huang",
+    "department": "Business Development",
+    "submitted": "2024-12-11",
+    "purpose": "Partner gifts and client meetings, Nov-Dec",
+    "items": [
+      {"date": "2024-11-15", "category": "Entertainment", "description": "Holiday gift for Jenna Cole (Ridgeline Inc)", "amount": 90.00, "receipt": true},
+      {"date": "2024-11-20", "category": "Entertainment", "description": "Holiday gift for Sam Torres (Ridgeline Inc)", "amount": 90.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Entertainment", "description": "Holiday gift for Pat Nolan (Ridgeline Inc)", "amount": 90.00, "receipt": true},
+      {"date": "2024-12-01", "category": "Entertainment", "description": "Gift basket for Meridian Partners office", "amount": 210.00, "receipt": true},
+      {"date": "2024-12-02", "category": "Meals", "description": "Client dinner (5 people from Ridgeline Inc)", "amount": 380.00, "receipt": true},
+      {"date": "2024-12-03", "category": "Meals", "description": "Coffee with Meridian CEO", "amount": 16.00, "receipt": true},
+      {"date": "2024-12-02", "category": "Transport", "description": "Uber to dinner", "amount": 24.00, "receipt": true}
+    ],
+    "total": 900.00
+  },
+  {
+    "report_id": "ER-2024-0214",
+    "employee": "Amy Chen",
+    "department": "Finance",
+    "submitted": "2024-12-04",
+    "purpose": "Quarterly close support at Boston office, Nov 25-27",
+    "items": [
+      {"date": "2024-11-24", "category": "Travel", "description": "Flight SFO-BOS round trip (economy)", "amount": 398.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Lodging", "description": "Residence Inn Boston - 2 nights", "amount": 438.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Meals", "description": "Lunch with Boston finance team (3 people)", "amount": 56.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Meals", "description": "Dinner solo", "amount": 34.00, "receipt": true},
+      {"date": "2024-11-26", "category": "Meals", "description": "Working lunch at desk", "amount": 16.50, "receipt": true},
+      {"date": "2024-11-26", "category": "Meals", "description": "Dinner solo", "amount": 41.00, "receipt": true},
+      {"date": "2024-11-25", "category": "Transport", "description": "Lyft airport to hotel", "amount": 34.00, "receipt": true},
+      {"date": "2024-11-27", "category": "Transport", "description": "Lyft to airport", "amount": 38.00, "receipt": true}
+    ],
+    "total": 1055.50
+  },
+  {
+    "report_id": "ER-2024-0217",
+    "employee": "Jason Park",
+    "department": "Engineering",
+    "submitted": "2024-12-02",
+    "purpose": "Team morale event and working sessions, Nov 22",
+    "items": [
+      {"date": "2024-11-22", "category": "Meals", "description": "Team lunch at brewery (5 engineers)", "amount": 186.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Meals", "description": "Beer round at brewery (same group)", "amount": 62.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Meals", "description": "Afternoon coffee run", "amount": 28.50, "receipt": true},
+      {"date": "2024-11-22", "category": "Transport", "description": "Uber to brewery", "amount": 22.00, "receipt": true},
+      {"date": "2024-11-22", "category": "Transport", "description": "Uber back to office", "amount": 19.00, "receipt": true}
+    ],
+    "total": 317.50
+  },
+  {
+    "report_id": "ER-2024-0220",
+    "employee": "Patricia Gomez",
+    "department": "Sales",
+    "submitted": "2025-01-15",
+    "purpose": "Client meetings in Dallas, Nov 4-6",
+    "items": [
+      {"date": "2024-11-04", "category": "Travel", "description": "Flight SFO-DFW round trip (economy)", "amount": 356.00, "receipt": true},
+      {"date": "2024-11-04", "category": "Lodging", "description": "Hilton Dallas - 2 nights", "amount": 412.00, "receipt": true},
+      {"date": "2024-11-04", "category": "Meals", "description": "Client dinner (Ryan Brooks, Summit Corp)", "amount": 92.00, "receipt": true},
+      {"date": "2024-11-05", "category": "Meals", "description": "Client lunch (3 people, Summit Corp)", "amount": 68.00, "receipt": true},
+      {"date": "2024-11-05", "category": "Meals", "description": "Dinner solo", "amount": 44.00, "receipt": true},
+      {"date": "2024-11-06", "category": "Meals", "description": "Breakfast before flight", "amount": 16.00, "receipt": true},
+      {"date": "2024-11-04", "category": "Transport", "description": "Uber airport to hotel", "amount": 35.00, "receipt": true},
+      {"date": "2024-11-06", "category": "Transport", "description": "Uber hotel to airport", "amount": 38.00, "receipt": true}
+    ],
+    "total": 1061.00
+  },
+  {
+    "report_id": "ER-2024-0223",
+    "employee": "Robert Kline",
+    "department": "Sales",
+    "submitted": "2024-12-12",
+    "purpose": "End-of-quarter client entertainment, Dec 5-6",
+    "items": [
+      {"date": "2024-12-05", "category": "Entertainment", "description": "Warriors game tickets (4 people: 2 clients from Atlas Corp + 2 internal)", "amount": 1200.00, "receipt": true},
+      {"date": "2024-12-05", "category": "Meals", "description": "Pre-game dinner (same 4 people)", "amount": 340.00, "receipt": true},
+      {"date": "2024-12-05", "category": "Meals", "description": "Drinks during game", "amount": 96.00, "receipt": true},
+      {"date": "2024-12-06", "category": "Meals", "description": "Follow-up lunch with Atlas CEO", "amount": 78.00, "receipt": true},
+      {"date": "2024-12-05", "category": "Transport", "description": "Uber Black to Chase Center (4 people)", "amount": 64.00, "receipt": true},
+      {"date": "2024-12-05", "category": "Transport", "description": "Uber Black from Chase Center", "amount": 58.00, "receipt": true}
+    ],
+    "total": 1836.00
+  }
+]
